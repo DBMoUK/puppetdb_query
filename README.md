@@ -1,6 +1,6 @@
 Used to find numbers of nodes from PuppetDB that match an OS Family and a given fact.
 
-Usage: do_it.rb [options]
+Usage: puppetdb_query.rb [options]
 
 ```puppet
 Specific options:
